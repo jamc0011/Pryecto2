@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fondo_con_robot_android">Robot Android Contexte</string>
+    <string name="boton_txt">Entrer</string>
+    <string name="Titulo_app">Bienvenue</string>
+</resources>
